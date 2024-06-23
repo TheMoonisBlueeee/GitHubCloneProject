@@ -4,3 +4,4 @@ This is a description of my repo
 
 Modification in main branch
 main
+Resolved confict btween main and feature-greeting
